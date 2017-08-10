@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+.head{
+	height:115px;
+	background-color:#F0F0F0;
+	overflow:hidden;
+}
+.head h1{
+	margin-top:48px;
+}
+.nav{
+	background-color:#3C7DBB;
+	height:42px;
+	line-height:36px;
+}
+.nav ul li{
+	float:left;
+	
+}
+.nav a{
+	color:#fff;
+	padding:0 25px 0 30px;
+	height:39px;
+	display:inline-block;
+	border-top:3px solid #3C7DBB;
+	font-size:12px;
+}
+.nav a:hover{
+	border-top:3px solid red;
+
+}
+
+.banner img{
+	width:100%;
+}
+.left{
+	float:left;
+	width:274px;
+	background-color:#903;
+}
+.right{
+	float:right;
+	width:772px;
+	background-color:green;
+}
+.foot{
+	text-align:center;}
+.youqing{
+		height:100px;
+		line-height:100px;
+}
